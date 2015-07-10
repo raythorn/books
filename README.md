@@ -140,6 +140,8 @@
 * [Neo4j 简体中文手册 v1.8](http://docs.neo4j.org.cn/)
 * [Neo4j .rb 中文資源](http://neo4j.tw/)
 * [Disque 使用教程](http://disquebook.com)
+* [NoSQL架构实践(一)——以NoSQL为辅](http://www.infoq.com/cn/news/2011/02/nosql-architecture-practice)
+* [NoSQL架构实践(二)——以NoSQL为主](http://www.infoq.com/cn/news/2011/03/nosql-architecture-practice-2)
 
 ### PostgreSQL
 
